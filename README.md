@@ -41,13 +41,5 @@ Hey! I'm Het — a passionate full-stack web developer who enjoys building beaut
 
 ---
 
-## 📬 Connect with Me
-
-- 📧 Email: `het.yourmail@example.com`  
-- 🌐 Portfolio: [your-portfolio.com](#)  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](#)
-
----
-
 > _“Stay hungry, stay foolish.” – Steve Jobs_
 
